@@ -35,12 +35,14 @@ git remote add origin https://github.com/ivanrusc/CrearNouProjecte.git
 git push -u origin main
 
  
-## fonts ##
-#http://wiki.legido.com/doku.php?id=informatica:git
+## fonts ## 
+#http://wiki.legido.com/doku.php?id=informatica:git 
 
-# Aprende GIT ahora! curso completo GRATIS desde cero
-# https://youtu.be/VdGzPZ31ts8
+# Aprende GIT ahora! curso completo GRATIS desde cero 
+# https://youtu.be/VdGzPZ31ts8 
 
-# Tutorial de GIT para principantes! - Usando la linea de comandos en Git
-# https://youtu.be/kEPF-MWGq1w
+# Tutorial de GIT para principantes! - Usando la linea de comandos en Git 
+# https://youtu.be/kEPF-MWGq1w 
+
+
 

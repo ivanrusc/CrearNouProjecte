@@ -1,0 +1,3 @@
+git init
+touch contrasenyes.txt
+touch .gitignore

@@ -6,3 +6,20 @@ git add -A
 git add .
 git add index.txt .gitignore
 git commit -m "primer commit"
+git log
+git diff
+git push origin master
+git pull origin master
+
+
+
+
+## fonts ##
+#http://wiki.legido.com/doku.php?id=informatica:git
+
+# Aprende GIT ahora! curso completo GRATIS desde cero
+# https://youtu.be/VdGzPZ31ts8
+
+# Tutorial de GIT para principantes! - Usando la linea de comandos en Git
+# https://youtu.be/kEPF-MWGq1w
+

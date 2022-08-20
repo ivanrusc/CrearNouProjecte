@@ -1,3 +1,8 @@
 git init
 touch contrasenyes.txt
 touch .gitignore
+git status
+git add -A
+git add .
+git add index.txt .gitignore
+git commit -m "primer commit"

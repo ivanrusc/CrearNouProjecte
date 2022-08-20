@@ -10,6 +10,14 @@ git log
 git diff
 git push origin master
 git pull origin master
+git chekout -b ramaC
+
+## resum ##
+git init
+git add index...
+git commit -m "comentari"
+git push
+
 
 ## web ##
 # https://github.com/ivanrusc
@@ -25,7 +33,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ivanrusc/CrearNouProjecte.git
 git push -u origin main
-
 
  
 ## fonts ##
